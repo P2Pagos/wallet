@@ -1,5 +1,4 @@
-[Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Français](README.fr.md) | [Italiano](README.it.md)
-
+[Español](README.es.md) | [Português](README.pt.md)
 # p2pagos/wallet
 
 Mobile self-custodial wallet for P2Pagos, based on an [Aqua Wallet](https://github.com/AquaWallet/aqua-wallet) fork.
